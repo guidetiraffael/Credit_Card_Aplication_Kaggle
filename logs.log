@@ -832,3 +832,11 @@ Styler.applymap has been deprecated. Use Styler.map instead.
                    random_state=123, solver='lbfgs', tol=0.0001, verbose=0,
                    warm_start=False)
 2025-03-31 18:36:21,344:INFO:compare_models() successfully completed......................................
+2025-04-07 00:03:05,977:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-07 00:03:05,977:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-07 00:03:05,977:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-04-07 00:03:05,977:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.

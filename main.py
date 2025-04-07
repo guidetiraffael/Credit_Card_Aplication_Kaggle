@@ -24,7 +24,7 @@ def main():
     
     # download
     dl_parser = subparsers.add_parser("download", help="Download dataset from Kaggle")
-    dl_parser.add_argument("kaggle_name", help="Kaggle dataset name (e.g. brsahan/mouse-viral-infection-study-dataset)")
+    dl_parser.add_argument("kaggle_name", help="Kaggle dataset name (e.g. nazishjaveed/credit-card-application)")
     
     # profile
     profile_parser = subparsers.add_parser("profile", help="Generate profiling report")
